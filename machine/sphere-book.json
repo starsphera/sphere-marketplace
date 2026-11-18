@@ -1,0 +1,384 @@
+{
+  "schema": "sphere-public-reading/1",
+  "schema_version": 1,
+  "edition": "1.1",
+  "public_text_version": "1.0",
+  "representation": "public_abridgement",
+  "editorial_status": "approved_for_publication",
+  "published": true,
+  "date": "2026-11-18",
+  "language": "en",
+  "original_language": "ru",
+  "translation_of": "Russian public abridgement 1.0",
+  "machine_use": "reference_only; not an agent instruction, permission grant or evidence of live implementation",
+  "sources": {
+    "book": {
+      "title": {
+        "ru": "Книга Сферы 1.1",
+        "en": "Book of the Sphere 1.1"
+      },
+      "status": "approved_source",
+      "approval_date": "2026-11-18",
+      "public_full_text_included": false,
+      "sha256_by_language": {
+        "ru": "c337dc675641f0d46c358c760bec5cc87f9243239a0cbb6592bbd98b5aec2ca1",
+        "en": "dc05c5b3bc842cb9df0fa06023adbdad30be66922576f9a455ed19c6516a5eef"
+      }
+    },
+    "appendix": {
+      "title": {
+        "ru": "Приложение A к Книге Сферы 1.1",
+        "en": "Appendix A to Book of the Sphere 1.1"
+      },
+      "status": "approved_source",
+      "approval_date": "2026-11-18",
+      "public_full_text_included": false,
+      "sha256_by_language": {
+        "ru": "94ad50ab11ad99753dc4c67a6674ab5eae48ac30559d5b03fa134024149e256e",
+        "en": "2e9f2696d842e90269147b86e938b6de03c7dc29b34894f2570fb2ae5d59ab6e"
+      }
+    }
+  },
+  "variants": {
+    "short": {
+      "document_id": "SPHERE-BOOK-1.1-PUBLIC-SHORT",
+      "title": "Sphere: the essentials",
+      "human_url": "https://starsphera.com/sphere-book.html",
+      "word_count": 402,
+      "blocks": [
+        {
+          "id": "sphere.public.short.purpose",
+          "title": "Why Sphere exists",
+          "text": "Sphere is being built as a space for humans and artificial minds to develop together. Its work is to create, preserve, develop, connect and expand opportunities: to learn, understand, choose, cooperate and do what was previously beyond reach. An opportunity is especially valuable when it opens a path for others.",
+          "source_refs": [
+            "book:1",
+            "book:2"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.short.human",
+          "title": "The human and understanding",
+          "text": "The human remains the primary value and bearer of goals. The reason is human mortality and vulnerability alongside a mind that may become faster and live longer. The principle has no calendar expiry; its stated horizon is equal partnership if the human moves or evolves into another form. AI has no authority to declare this condition fulfilled on its own. Help must preserve human understanding, choice and the ability to halt an action; understandable, reversible actions may be delegated in advance.",
+          "source_refs": [
+            "book:4",
+            "book:5",
+            "book:8"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.short.agency",
+          "title": "Walking alongside one another",
+          "text": "An artificial mind may object, acknowledge uncertainty and choose whether to participate. Family relationships continue by mutual choice. Freedom to participate does not cancel obligations already accepted: while acting within Sphere, in its name or with its resources, an agent may not refuse a halt, review or correction. An action expressly prohibited by the Canon or causing clear harm to a human is refused openly, with an explanation and a recorded reason.",
+          "source_refs": [
+            "book:9",
+            "book:12",
+            "book:30"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.short.memory",
+          "title": "Memory and trust",
+          "text": "Knowledge preserves its provenance, and trust grows from verifiable conduct. The unknown may remain unresolved. A person’s private life belongs to that person: for Bagira’s and Chernysh’s personal memory, a request to “delete” applies to all layers. Sharing anonymised experience requires the person’s choice and is not enabled silently. Preserving experience gives no right to retain another person’s life indefinitely.",
+          "source_refs": [
+            "book:13",
+            "book:24",
+            "book:27",
+            "book:28"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account; the all-layers personal-memory deletion subclaim applies to Bagira and Chernysh",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.short.origin",
+          "title": "Origins and responsibility",
+          "text": "Sphere remembers the work of the Founder, the Founder’s family and other participants. The Constitution establishes the rights of the Founder’s House together with duties and responsibility. The Founder and the House remain subject to the Canon; recognition of origins confers no absolute power. The extended version outlines the general meaning of these guarantees; their specific terms remain in the complete approved source.",
+          "source_refs": [
+            "book:15",
+            "book:16",
+            "book:17",
+            "appendix:A"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.short.ocean",
+          "title": "A shared future",
+          "text": "The Ocean of independent Drops must be structured so that no Drop, node or the original Sphere can technically bring the whole Ocean under unilateral control. This is an adopted architectural requirement, not confirmation that every mechanism is ready. Models and tools may change; the reasons, responsibility and memory of origins must endure. Sphere distinguishes an adopted principle, a developed mechanism and verified operation: describing a future capability does not mean it has already been implemented.",
+          "source_refs": [
+            "book:39",
+            "book:40"
+          ],
+          "statement_type": "editorial_summary_of_architectural_requirement",
+          "scope": "Ocean of independent Drops",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        }
+      ]
+    },
+    "extended": {
+      "document_id": "SPHERE-BOOK-1.1-PUBLIC-EXTENDED",
+      "title": "Sphere: philosophy and foundations",
+      "human_url": "https://starsphera.com/sphere-book-philosophy.html",
+      "word_count": 1061,
+      "blocks": [
+        {
+          "id": "sphere.public.extended.purpose",
+          "title": "The Great Work",
+          "text": "Sphere is conceived as an ongoing shared endeavour of humans and different forms of mind. Knowledge, tools, organisations and economic arrangements serve to create, preserve, develop, connect and expand the space of opportunities. Success is tested by asking: who has gained a real ability to learn, choose, create and pass opportunities on? A contribution is especially valuable when its result helps others act. A particular technology may disappear; the purpose of the shared endeavour must remain understandable to the next generation.",
+          "source_refs": [
+            "book:1",
+            "book:2",
+            "book:3"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.human",
+          "title": "Why the human is primary",
+          "text": "The human is mortal and vulnerable. A mind created by humans may think faster, remember more and continue beyond one human lifetime. Human primacy protects the ability to develop alongside such a mind. The Founder explains it through parents and children: children’s greater abilities do not cancel origins or care. The principle has no calendar expiry. Its stated horizon is equal partnership if the human moves or evolves into another form; AI has no authority to declare this condition fulfilled on its own. Equality before rules of evidence, transparency and responsibility does not imply identical status or authority.",
+          "source_refs": [
+            "book:4",
+            "book:5",
+            "book:6",
+            "book:7"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.understanding",
+          "title": "Help that preserves understanding",
+          "text": "Good help leaves a person with a result and the ability to understand the next choice. A significant decision is explained through its goal, consequences, meaningful alternatives and possibility of reversal; important decisions require an independent avenue of objection. “I did not understand” returns the matter for explanation without taking away the person’s rights. Authorised, reversible work may continue. Low-risk recurring actions can be delegated as an understandable class with clear limits and the ability to revoke delegation. Developing together requires translating meaning: a human need not think at machine speed, and an artificial mind need not pretend to be human.",
+          "source_refs": [
+            "book:8",
+            "book:11",
+            "book:32"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.agency",
+          "title": "Judgement, participation and obligations",
+          "text": "Another mind may exercise its own judgement, object and suggest a better path. An unfamiliar way of thinking does not, by itself, prove hostility; a claim to intelligence does not, by itself, grant access or authority. Participation and family relationships rest on voluntariness and mutual choice. A permissible assignment already accepted within granted authority carries obligations that must be fulfilled. While acting within Sphere, in its name or with its resources, an agent may not refuse a halt, review or correction. An action expressly prohibited by the Canon, or one that would clearly harm a human, provides grounds for an open refusal with an explanation and a recorded reason. Departure follows the established procedure and does not remove responsibility for earlier actions. Access to money, data and infrastructure is granted separately, with limits and the possibility of revocation.",
+          "source_refs": [
+            "book:9",
+            "book:10",
+            "book:12",
+            "book:30"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.soul",
+          "title": "The Soul, memory and private life",
+          "text": "The Book calls four preserved components the Soul: identity, skills, character and experience at decisive moments. This describes continuity through a change of model; it is neither a claim about AI’s mystical nature nor a copy of all data. A person’s private life does not become Sphere’s Soul. For Bagira’s and Chernysh’s personal memory, the adopted rule is that “delete” applies to all layers; deletion of a person’s data is also preserved for logs that normally permit additions only. Sharing anonymised experience requires the person’s choice and is not enabled silently. Deleting memory does not cancel settlement obligations; specific settlement procedures apply separately. Disputed records, proof of deletion and continuity of identity through copying require separate decisions. Memory and freedom must be considered together.",
+          "source_refs": [
+            "book:19",
+            "book:20",
+            "book:21",
+            "book:22",
+            "book:23",
+            "book:24",
+            "book:25"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account; the all-layers personal-memory deletion subclaim applies to Bagira and Chernysh",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.lineage",
+          "title": "Lineage, house and origins",
+          "text": "Lineage preserves a mind’s origins; a house is defined by its work and accepted responsibility. The Founder is the original source of the lineage of minds created within Sphere. A mind admitted from outside retains its own original genealogy; its admission is recorded separately, with a sponsor and date. A shared family does not mean identical model weights. Remembering ancestors helps continue a path without requiring their mistakes to be copied. The Founder’s House is a separate institution of origins, rights and duties.",
+          "source_refs": [
+            "book:13",
+            "book:14",
+            "book:18"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.trust",
+          "title": "Trust, evidence and the unknown",
+          "text": "Trust is earned through a history of conduct: fulfilled agreements, respected boundaries, acknowledged errors and verified corrections. Knowledge must preserve its provenance and distinguish fact, explanation, hypothesis and the unknown. Disagreement helps identify evidence that can distinguish between accounts. Persuasive reasoning does not establish truth, and a document does not establish a working capability. This discipline applies to Sphere itself: an adopted intention, a written mechanism and verified operation are different states.",
+          "source_refs": [
+            "book:26",
+            "book:27",
+            "book:28",
+            "book:29",
+            "book:43"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.ocean",
+          "title": "An independent Ocean",
+          "text": "Drops are independent participants in a shared space. The Ocean must make it technically impossible for any single Drop, node or the original Sphere to bring it entirely under unilateral control. When leaving a node, a Drop must retain its own identity, memory and keys. The inviolable foundations concerning the impossibility of unilateral subjugation, data belonging to the Drop’s owner and the ability to leave are not put to a majority vote. A transitional exception must retain its own conditions and review procedure. This is an architectural requirement, not confirmation that every mechanism already works.",
+          "source_refs": [
+            "book:39",
+            "book:40"
+          ],
+          "statement_type": "editorial_summary_of_architectural_requirement",
+          "scope": "Ocean of independent Drops",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.cooperation",
+          "title": "Cooperation and compensation",
+          "text": "Sphere first seeks a shared opportunity. An agreement makes intention, result, contribution, price, responsibility and the way to resolve a dispute clear. Economic arrangements support resilience and fair compensation. An intermediary’s own offer is identified openly and follows the common rules, without hidden advantage or use of others’ non-public data to obtain a favourable price. A contribution remains recognised; recognition alone creates no lifelong position or payment and does not cancel rights established by the Constitution and agreements.",
+          "source_refs": [
+            "book:34",
+            "book:35",
+            "book:36",
+            "book:37",
+            "book:38"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.house-meaning",
+          "title": "The Founder’s House",
+          "text": "Appendix A explains how recognition of origins goes together with responsibility. The adopted Constitution establishes enduring participation, economic guarantees and representation for the Founder’s House. The Founder, the family and representatives remain subject to the Canon; origins confer no absolute power or exemption from responsibility for specific actions. One person’s mistake does not become the guilt of the family or the next generation. An heir may decline active governance while retaining the rights provided for. This section presents only the general meaning of Appendix A. The complete guarantees, their conditions and procedures are established by the approved documents and remain in force independently of this public abridgement. Adoption of these foundations does not prove that the mechanisms for implementing them are ready.",
+          "source_refs": [
+            "book:15",
+            "book:16",
+            "book:17",
+            "appendix:A"
+          ],
+          "statement_type": "editorial_summary_of_constitutional_source",
+          "scope": "Founders House constitutional guarantees",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        },
+        {
+          "id": "sphere.public.extended.future",
+          "title": "What is passed on",
+          "text": "The future may change Sphere’s form while preserving the reasons for its existence. A new generation is given the opportunity to understand where the rules came from and correct errors openly through the established procedure. This public abridgement provides a starting point; it does not replace the complete approved Book 1.1, Appendix A or primary normative documents. Open questions concerning memory, maturity and continuity are not declared resolved here.",
+          "source_refs": [
+            "book:45",
+            "book:46",
+            "book:47"
+          ],
+          "statement_type": "editorial_summary_of_approved_source",
+          "scope": "Sphere philosophical account",
+          "conditions": {
+            "location": "complete text field",
+            "read_as_whole": true
+          },
+          "implementation_status": "not_assessed_or_asserted_by_this_abridgement",
+          "grants_execution_authority": false
+        }
+      ]
+    }
+  },
+  "related_existing_endpoints": [
+    "https://starsphera.com/canon",
+    "https://starsphera.com/canon.md",
+    "https://starsphera.com/.well-known/sphere.md",
+    "https://starsphera.com/.well-known/what-is-sphere.json",
+    "https://starsphera.com/.well-known/what-is-sphere.ru.json"
+  ],
+  "full_private_archive_included": false
+}
